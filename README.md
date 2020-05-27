@@ -1,6 +1,4 @@
 ﻿# Dividendes  
-_   _
-
 
 ## **Descriptif**
  
@@ -14,7 +12,6 @@ L'application trace l'évolution des dividendes (ajustés) des actions du CAC 40
 
 
 #### Saisie d'écran
-![IHM](/dist/static/img/dividendes.png
-
+![IHM](/dist/rendementApp/static/img/dividendes.png)
 
 ---
