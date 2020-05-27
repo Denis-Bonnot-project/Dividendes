@@ -1,0 +1,90 @@
+{
+  "symbol": "UG.PA",
+  "historical": [
+    {
+      "date": "2020-05-21",
+      "label": "May 21, 20",
+      "adjDividend": 1.23
+    },
+    {
+      "date": "2019-05-02",
+      "label": "May 02, 19",
+      "adjDividend": 0.78
+    },
+    {
+      "date": "2018-05-02",
+      "label": "May 02, 18",
+      "adjDividend": 0.53
+    },
+    {
+      "date": "2017-05-15",
+      "label": "May 15, 17",
+      "adjDividend": 0.48
+    },
+    {
+      "date": "2011-06-02",
+      "label": "June 02, 11",
+      "adjDividend": 1.1
+    },
+    {
+      "date": "2010-06-28",
+      "label": "June 28, 10",
+      "adjDividend": 0.15
+    },
+    {
+      "date": "2008-11-13",
+      "label": "November 13, 08",
+      "adjDividend": 0.69
+    },
+    {
+      "date": "2008-06-30",
+      "label": "June 30, 08",
+      "adjDividend": 0.63
+    },
+    {
+      "date": "2008-05-30",
+      "label": "May 30, 08",
+      "adjDividend": 1.5
+    },
+    {
+      "date": "2007-05-30",
+      "label": "May 30, 07",
+      "adjDividend": 1.35
+    },
+    {
+      "date": "2006-05-31",
+      "label": "May 31, 06",
+      "adjDividend": 1.35
+    },
+    {
+      "date": "2005-06-01",
+      "label": "June 01, 05",
+      "adjDividend": 1.35
+    },
+    {
+      "date": "2004-06-02",
+      "label": "June 02, 04",
+      "adjDividend": 1.35
+    },
+    {
+      "date": "2003-06-04",
+      "label": "June 04, 03",
+      "adjDividend": 1.35
+    },
+    {
+      "date": "2002-05-22",
+      "label": "May 22, 02",
+      "adjDividend": 1.15
+    },
+    {
+      "date": "2001-05-23",
+      "label": "May 23, 01",
+      "adjDividend": 5.0
+    },
+    {
+      "date": "2000-06-02",
+      "label": "June 02, 00",
+      "adjDividend": 2.7
+    }
+  ]
+}

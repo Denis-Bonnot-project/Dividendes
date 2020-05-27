@@ -1,0 +1,105 @@
+{
+  "symbol": "DSY.PA",
+  "historical": [
+    {
+      "date": "2019-05-29",
+      "label": "May 29, 19",
+      "adjDividend": 0.65
+    },
+    {
+      "date": "2018-05-29",
+      "label": "May 29, 18",
+      "adjDividend": 0.58
+    },
+    {
+      "date": "2017-05-30",
+      "label": "May 30, 17",
+      "adjDividend": 0.53
+    },
+    {
+      "date": "2016-06-02",
+      "label": "June 02, 16",
+      "adjDividend": 0.47
+    },
+    {
+      "date": "2015-06-03",
+      "label": "June 03, 15",
+      "adjDividend": 0.43
+    },
+    {
+      "date": "2014-05-30",
+      "label": "May 30, 14",
+      "adjDividend": 0.83
+    },
+    {
+      "date": "2013-06-05",
+      "label": "June 05, 13",
+      "adjDividend": 0.8
+    },
+    {
+      "date": "2012-06-21",
+      "label": "June 21, 12",
+      "adjDividend": 0.7
+    },
+    {
+      "date": "2011-06-13",
+      "label": "June 13, 11",
+      "adjDividend": 0.54
+    },
+    {
+      "date": "2010-06-14",
+      "label": "June 14, 10",
+      "adjDividend": 0.46
+    },
+    {
+      "date": "2009-06-22",
+      "label": "June 22, 09",
+      "adjDividend": 0.46
+    },
+    {
+      "date": "2008-06-17",
+      "label": "June 17, 08",
+      "adjDividend": 0.46
+    },
+    {
+      "date": "2007-06-27",
+      "label": "June 27, 07",
+      "adjDividend": 0.44
+    },
+    {
+      "date": "2006-07-05",
+      "label": "July 05, 06",
+      "adjDividend": 0.42
+    },
+    {
+      "date": "2005-06-28",
+      "label": "June 28, 05",
+      "adjDividend": 0.38
+    },
+    {
+      "date": "2004-06-22",
+      "label": "June 22, 04",
+      "adjDividend": 0.51
+    },
+    {
+      "date": "2003-06-18",
+      "label": "June 18, 03",
+      "adjDividend": 0.33
+    },
+    {
+      "date": "2002-06-18",
+      "label": "June 18, 02",
+      "adjDividend": 0.33
+    },
+    {
+      "date": "2001-06-25",
+      "label": "June 25, 01",
+      "adjDividend": 0.31
+    },
+    {
+      "date": "2000-07-03",
+      "label": "July 03, 00",
+      "adjDividend": 0.27
+    }
+  ]
+}

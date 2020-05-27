@@ -1,0 +1,110 @@
+{
+  "symbol": "CAP.PA",
+  "historical": [
+    {
+      "date": "2019-06-05",
+      "label": "June 05, 19",
+      "adjDividend": 1.7
+    },
+    {
+      "date": "2018-06-04",
+      "label": "June 04, 18",
+      "adjDividend": 1.7
+    },
+    {
+      "date": "2017-05-22",
+      "label": "May 22, 17",
+      "adjDividend": 1.55
+    },
+    {
+      "date": "2016-05-30",
+      "label": "May 30, 16",
+      "adjDividend": 1.35
+    },
+    {
+      "date": "2015-05-18",
+      "label": "May 18, 15",
+      "adjDividend": 1.2
+    },
+    {
+      "date": "2014-05-16",
+      "label": "May 16, 14",
+      "adjDividend": 1.1
+    },
+    {
+      "date": "2013-06-03",
+      "label": "June 03, 13",
+      "adjDividend": 1.0
+    },
+    {
+      "date": "2012-06-04",
+      "label": "June 04, 12",
+      "adjDividend": 1.0
+    },
+    {
+      "date": "2011-06-06",
+      "label": "June 06, 11",
+      "adjDividend": 1.0
+    },
+    {
+      "date": "2010-05-31",
+      "label": "May 31, 10",
+      "adjDividend": 0.8
+    },
+    {
+      "date": "2009-05-05",
+      "label": "May 05, 09",
+      "adjDividend": 1.0
+    },
+    {
+      "date": "2008-05-06",
+      "label": "May 06, 08",
+      "adjDividend": 1.7
+    },
+    {
+      "date": "2008-04-21",
+      "label": "April 21, 08",
+      "adjDividend": 1.0
+    },
+    {
+      "date": "2007-04-30",
+      "label": "April 30, 07",
+      "adjDividend": 0.7
+    },
+    {
+      "date": "2006-05-16",
+      "label": "May 16, 06",
+      "adjDividend": 0.5
+    },
+    {
+      "date": "2004-04-30",
+      "label": "April 30, 04",
+      "adjDividend": 0.74
+    },
+    {
+      "date": "2003-04-17",
+      "label": "April 17, 03",
+      "adjDividend": 0.64
+    },
+    {
+      "date": "2002-04-29",
+      "label": "April 29, 02",
+      "adjDividend": 0.56
+    },
+    {
+      "date": "2002-04-26",
+      "label": "April 26, 02",
+      "adjDividend": 0.4
+    },
+    {
+      "date": "2001-05-18",
+      "label": "May 18, 01",
+      "adjDividend": 1.2
+    },
+    {
+      "date": "2000-05-26",
+      "label": "May 26, 00",
+      "adjDividend": 1.0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "symbol": "SU.PA",
+  "historical": [
+    {
+      "date": "2020-05-05",
+      "label": "May 05, 20",
+      "adjDividend": 2.55
+    },
+    {
+      "date": "2019-04-30",
+      "label": "April 30, 19",
+      "adjDividend": 2.35
+    },
+    {
+      "date": "2018-05-02",
+      "label": "May 02, 18",
+      "adjDividend": 2.2
+    },
+    {
+      "date": "2017-05-08",
+      "label": "May 08, 17",
+      "adjDividend": 2.04
+    },
+    {
+      "date": "2016-05-05",
+      "label": "May 05, 16",
+      "adjDividend": 2.0
+    },
+    {
+      "date": "2015-04-30",
+      "label": "April 30, 15",
+      "adjDividend": 0.56
+    },
+    {
+      "date": "2014-05-14",
+      "label": "May 14, 14",
+      "adjDividend": 1.87
+    },
+    {
+      "date": "2013-05-02",
+      "label": "May 02, 13",
+      "adjDividend": 1.87
+    },
+    {
+      "date": "2012-05-11",
+      "label": "May 11, 12",
+      "adjDividend": 1.7
+    },
+    {
+      "date": "2011-04-29",
+      "label": "April 29, 11",
+      "adjDividend": 3.2
+    },
+    {
+      "date": "2010-05-04",
+      "label": "May 04, 10",
+      "adjDividend": 2.05
+    },
+    {
+      "date": "2009-05-04",
+      "label": "May 04, 09",
+      "adjDividend": 3.45
+    },
+    {
+      "date": "2008-04-25",
+      "label": "April 25, 08",
+      "adjDividend": 3.3
+    },
+    {
+      "date": "2007-05-02",
+      "label": "May 02, 07",
+      "adjDividend": 3.0
+    },
+    {
+      "date": "2006-05-09",
+      "label": "May 09, 06",
+      "adjDividend": 2.25
+    },
+    {
+      "date": "2005-05-17",
+      "label": "May 17, 05",
+      "adjDividend": 1.8
+    },
+    {
+      "date": "2004-05-10",
+      "label": "May 10, 04",
+      "adjDividend": 1.65
+    },
+    {
+      "date": "2003-05-20",
+      "label": "May 20, 03",
+      "adjDividend": 1.0
+    },
+    {
+      "date": "2001-05-07",
+      "label": "May 07, 01",
+      "adjDividend": 1.6
+    },
+    {
+      "date": "2000-06-09",
+      "label": "June 09, 00",
+      "adjDividend": 1.34
+    }
+  ]
+}

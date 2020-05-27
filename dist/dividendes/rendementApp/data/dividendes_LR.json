@@ -1,0 +1,70 @@
+{
+  "symbol": "LR.PA",
+  "historical": [
+    {
+      "date": "2019-06-03",
+      "label": "June 03, 19",
+      "adjDividend": 1.34
+    },
+    {
+      "date": "2018-06-01",
+      "label": "June 01, 18",
+      "adjDividend": 1.26
+    },
+    {
+      "date": "2017-06-02",
+      "label": "June 02, 17",
+      "adjDividend": 0.79
+    },
+    {
+      "date": "2016-05-31",
+      "label": "May 31, 16",
+      "adjDividend": 0.73
+    },
+    {
+      "date": "2015-06-02",
+      "label": "June 02, 15",
+      "adjDividend": 0.93
+    },
+    {
+      "date": "2014-05-29",
+      "label": "May 29, 14",
+      "adjDividend": 1.05
+    },
+    {
+      "date": "2013-05-29",
+      "label": "May 29, 13",
+      "adjDividend": 1.0
+    },
+    {
+      "date": "2012-05-31",
+      "label": "May 31, 12",
+      "adjDividend": 0.93
+    },
+    {
+      "date": "2011-05-31",
+      "label": "May 31, 11",
+      "adjDividend": 0.88
+    },
+    {
+      "date": "2010-06-02",
+      "label": "June 02, 10",
+      "adjDividend": 0.7
+    },
+    {
+      "date": "2009-06-01",
+      "label": "June 01, 09",
+      "adjDividend": 0.7
+    },
+    {
+      "date": "2008-05-29",
+      "label": "May 29, 08",
+      "adjDividend": 0.7
+    },
+    {
+      "date": "2007-05-21",
+      "label": "May 21, 07",
+      "adjDividend": 0.5
+    }
+  ]
+}

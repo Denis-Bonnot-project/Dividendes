@@ -1,0 +1,110 @@
+{
+  "symbol": "VIE.PA",
+  "historical": [
+    {
+      "date": "2020-05-12",
+      "label": "May 12, 20",
+      "adjDividend": 0.5
+    },
+    {
+      "date": "2019-05-14",
+      "label": "May 14, 19",
+      "adjDividend": 0.92
+    },
+    {
+      "date": "2018-05-14",
+      "label": "May 14, 18",
+      "adjDividend": 0.84
+    },
+    {
+      "date": "2017-04-24",
+      "label": "April 24, 17",
+      "adjDividend": 0.8
+    },
+    {
+      "date": "2016-05-02",
+      "label": "May 02, 16",
+      "adjDividend": 0.73
+    },
+    {
+      "date": "2015-05-05",
+      "label": "May 05, 15",
+      "adjDividend": 0.7
+    },
+    {
+      "date": "2014-04-30",
+      "label": "April 30, 14",
+      "adjDividend": 0.7
+    },
+    {
+      "date": "2013-05-20",
+      "label": "May 20, 13",
+      "adjDividend": 0.7
+    },
+    {
+      "date": "2012-05-22",
+      "label": "May 22, 12",
+      "adjDividend": 0.7
+    },
+    {
+      "date": "2011-05-23",
+      "label": "May 23, 11",
+      "adjDividend": 1.21
+    },
+    {
+      "date": "2010-05-14",
+      "label": "May 14, 10",
+      "adjDividend": 1.21
+    },
+    {
+      "date": "2009-05-13",
+      "label": "May 13, 09",
+      "adjDividend": 1.21
+    },
+    {
+      "date": "2008-05-22",
+      "label": "May 22, 08",
+      "adjDividend": 1.21
+    },
+    {
+      "date": "2007-09-06",
+      "label": "September 06, 07",
+      "adjDividend": 0.29
+    },
+    {
+      "date": "2007-05-15",
+      "label": "May 15, 07",
+      "adjDividend": 1.05
+    },
+    {
+      "date": "2006-05-29",
+      "label": "May 29, 06",
+      "adjDividend": 0.85
+    },
+    {
+      "date": "2005-05-27",
+      "label": "May 27, 05",
+      "adjDividend": 0.68
+    },
+    {
+      "date": "2004-05-28",
+      "label": "May 28, 04",
+      "adjDividend": 0.55
+    },
+    {
+      "date": "2003-05-07",
+      "label": "May 07, 03",
+      "adjDividend": 0.55
+    },
+    {
+      "date": "2002-05-06",
+      "label": "May 06, 02",
+      "adjDividend": 0.55
+    },
+    {
+      "date": "2001-05-10",
+      "label": "May 10, 01",
+      "adjDividend": 0.55
+    }
+  ]
+}

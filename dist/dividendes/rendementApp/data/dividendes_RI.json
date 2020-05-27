@@ -1,0 +1,220 @@
+{
+  "symbol": "RI.PA",
+  "historical": [
+    {
+      "date": "2019-11-25",
+      "label": "November 25, 19",
+      "adjDividend": 1.94
+    },
+    {
+      "date": "2019-07-08",
+      "label": "July 08, 19",
+      "adjDividend": 1.18
+    },
+    {
+      "date": "2018-11-28",
+      "label": "November 28, 18",
+      "adjDividend": 1.35
+    },
+    {
+      "date": "2018-07-04",
+      "label": "July 04, 18",
+      "adjDividend": 1.01
+    },
+    {
+      "date": "2017-11-20",
+      "label": "November 20, 17",
+      "adjDividend": 1.08
+    },
+    {
+      "date": "2017-07-05",
+      "label": "July 05, 17",
+      "adjDividend": 0.94
+    },
+    {
+      "date": "2016-11-28",
+      "label": "November 28, 16",
+      "adjDividend": 0.98
+    },
+    {
+      "date": "2016-07-06",
+      "label": "July 06, 16",
+      "adjDividend": 0.9
+    },
+    {
+      "date": "2015-11-16",
+      "label": "November 16, 15",
+      "adjDividend": 0.98
+    },
+    {
+      "date": "2015-07-06",
+      "label": "July 06, 15",
+      "adjDividend": 0.82
+    },
+    {
+      "date": "2014-11-13",
+      "label": "November 13, 14",
+      "adjDividend": 0.82
+    },
+    {
+      "date": "2014-07-03",
+      "label": "July 03, 14",
+      "adjDividend": 0.82
+    },
+    {
+      "date": "2013-11-12",
+      "label": "November 12, 13",
+      "adjDividend": 0.85
+    },
+    {
+      "date": "2013-07-02",
+      "label": "July 02, 13",
+      "adjDividend": 0.79
+    },
+    {
+      "date": "2012-11-14",
+      "label": "November 14, 12",
+      "adjDividend": 0.86
+    },
+    {
+      "date": "2012-07-02",
+      "label": "July 02, 12",
+      "adjDividend": 0.72
+    },
+    {
+      "date": "2011-11-17",
+      "label": "November 17, 11",
+      "adjDividend": 0.77
+    },
+    {
+      "date": "2011-07-01",
+      "label": "July 01, 11",
+      "adjDividend": 0.67
+    },
+    {
+      "date": "2010-11-12",
+      "label": "November 12, 10",
+      "adjDividend": 0.73
+    },
+    {
+      "date": "2010-07-02",
+      "label": "July 02, 10",
+      "adjDividend": 0.61
+    },
+    {
+      "date": "2009-07-03",
+      "label": "July 03, 09",
+      "adjDividend": 0.5
+    },
+    {
+      "date": "2008-11-13",
+      "label": "November 13, 08",
+      "adjDividend": 0.69
+    },
+    {
+      "date": "2008-06-30",
+      "label": "June 30, 08",
+      "adjDividend": 0.63
+    },
+    {
+      "date": "2007-11-14",
+      "label": "November 14, 07",
+      "adjDividend": 1.26
+    },
+    {
+      "date": "2007-07-04",
+      "label": "July 04, 07",
+      "adjDividend": 1.26
+    },
+    {
+      "date": "2006-11-15",
+      "label": "November 15, 06",
+      "adjDividend": 1.4
+    },
+    {
+      "date": "2006-07-18",
+      "label": "July 18, 06",
+      "adjDividend": 0.3
+    },
+    {
+      "date": "2006-07-05",
+      "label": "July 05, 06",
+      "adjDividend": 1.12
+    },
+    {
+      "date": "2005-11-17",
+      "label": "November 17, 05",
+      "adjDividend": 1.08
+    },
+    {
+      "date": "2005-07-20",
+      "label": "July 20, 05",
+      "adjDividend": 0.25
+    },
+    {
+      "date": "2005-06-07",
+      "label": "June 07, 05",
+      "adjDividend": 1.16
+    },
+    {
+      "date": "2005-01-11",
+      "label": "January 11, 05",
+      "adjDividend": 0.98
+    },
+    {
+      "date": "2004-07-16",
+      "label": "July 16, 04",
+      "adjDividend": 0.41
+    },
+    {
+      "date": "2004-05-25",
+      "label": "May 25, 04",
+      "adjDividend": 1.06
+    },
+    {
+      "date": "2004-01-13",
+      "label": "January 13, 04",
+      "adjDividend": 0.9
+    },
+    {
+      "date": "2003-05-15",
+      "label": "May 15, 03",
+      "adjDividend": 0.9
+    },
+    {
+      "date": "2003-01-14",
+      "label": "January 14, 03",
+      "adjDividend": 0.9
+    },
+    {
+      "date": "2002-06-11",
+      "label": "June 11, 02",
+      "adjDividend": 1.0
+    },
+    {
+      "date": "2002-01-10",
+      "label": "January 10, 02",
+      "adjDividend": 0.8
+    },
+    {
+      "date": "2001-05-10",
+      "label": "May 10, 01",
+      "adjDividend": 0.8
+    },
+    {
+      "date": "2001-01-11",
+      "label": "January 11, 01",
+      "adjDividend": 0.8
+    },
+    {
+      "date": "2000-05-10",
+      "label": "May 10, 00",
+      "adjDividend": 0.85
+    },
+    {
+      "date": "2000-01-12",
+      "label": "January 12, 00",
+      "adjDividend": 0.75
+    }
+  ]
+}

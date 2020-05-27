@@ -1,0 +1,60 @@
+{
+  "symbol": "ATO.PA",
+  "historical": [
+    {
+      "date": "2019-05-03",
+      "label": "May 03, 19",
+      "adjDividend": 1.7
+    },
+    {
+      "date": "2018-05-31",
+      "label": "May 31, 18",
+      "adjDividend": 1.7
+    },
+    {
+      "date": "2017-05-26",
+      "label": "May 26, 17",
+      "adjDividend": 1.6
+    },
+    {
+      "date": "2016-06-02",
+      "label": "June 02, 16",
+      "adjDividend": 1.1
+    },
+    {
+      "date": "2015-06-04",
+      "label": "June 04, 15",
+      "adjDividend": 0.8
+    },
+    {
+      "date": "2015-06-01",
+      "label": "June 01, 15",
+      "adjDividend": 0.8
+    },
+    {
+      "date": "2014-06-02",
+      "label": "June 02, 14",
+      "adjDividend": 0.7
+    },
+    {
+      "date": "2013-06-04",
+      "label": "June 04, 13",
+      "adjDividend": 0.6
+    },
+    {
+      "date": "2012-06-06",
+      "label": "June 06, 12",
+      "adjDividend": 0.5
+    },
+    {
+      "date": "2011-06-13",
+      "label": "June 13, 11",
+      "adjDividend": 0.5
+    },
+    {
+      "date": "2008-06-30",
+      "label": "June 30, 08",
+      "adjDividend": 0.4
+    }
+  ]
+}

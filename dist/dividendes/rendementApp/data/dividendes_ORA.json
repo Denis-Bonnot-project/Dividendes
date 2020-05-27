@@ -1,0 +1,160 @@
+{
+  "symbol": "ORA.PA",
+  "historical": [
+    {
+      "date": "2019-12-02",
+      "label": "December 02, 19",
+      "adjDividend": 0.3
+    },
+    {
+      "date": "2019-06-04",
+      "label": "June 04, 19",
+      "adjDividend": 0.4
+    },
+    {
+      "date": "2018-12-04",
+      "label": "December 04, 18",
+      "adjDividend": 0.3
+    },
+    {
+      "date": "2018-06-05",
+      "label": "June 05, 18",
+      "adjDividend": 0.4
+    },
+    {
+      "date": "2017-12-05",
+      "label": "December 05, 17",
+      "adjDividend": 0.25
+    },
+    {
+      "date": "2017-06-12",
+      "label": "June 12, 17",
+      "adjDividend": 0.4
+    },
+    {
+      "date": "2016-12-05",
+      "label": "December 05, 16",
+      "adjDividend": 0.2
+    },
+    {
+      "date": "2016-06-21",
+      "label": "June 21, 16",
+      "adjDividend": 0.4
+    },
+    {
+      "date": "2015-12-07",
+      "label": "December 07, 15",
+      "adjDividend": 0.2
+    },
+    {
+      "date": "2015-06-08",
+      "label": "June 08, 15",
+      "adjDividend": 0.4
+    },
+    {
+      "date": "2014-12-05",
+      "label": "December 05, 14",
+      "adjDividend": 0.2
+    },
+    {
+      "date": "2014-06-02",
+      "label": "June 02, 14",
+      "adjDividend": 0.5
+    },
+    {
+      "date": "2013-12-06",
+      "label": "December 06, 13",
+      "adjDividend": 0.3
+    },
+    {
+      "date": "2013-06-06",
+      "label": "June 06, 13",
+      "adjDividend": 0.2
+    },
+    {
+      "date": "2012-09-07",
+      "label": "September 07, 12",
+      "adjDividend": 0.58
+    },
+    {
+      "date": "2012-06-08",
+      "label": "June 08, 12",
+      "adjDividend": 0.8
+    },
+    {
+      "date": "2011-09-05",
+      "label": "September 05, 11",
+      "adjDividend": 0.6
+    },
+    {
+      "date": "2011-06-10",
+      "label": "June 10, 11",
+      "adjDividend": 0.8
+    },
+    {
+      "date": "2010-08-30",
+      "label": "August 30, 10",
+      "adjDividend": 0.6
+    },
+    {
+      "date": "2010-06-14",
+      "label": "June 14, 10",
+      "adjDividend": 0.8
+    },
+    {
+      "date": "2009-08-28",
+      "label": "August 28, 09",
+      "adjDividend": 0.6
+    },
+    {
+      "date": "2009-06-02",
+      "label": "June 02, 09",
+      "adjDividend": 0.8
+    },
+    {
+      "date": "2008-09-08",
+      "label": "September 08, 08",
+      "adjDividend": 0.6
+    },
+    {
+      "date": "2008-05-29",
+      "label": "May 29, 08",
+      "adjDividend": 1.3
+    },
+    {
+      "date": "2007-06-07",
+      "label": "June 07, 07",
+      "adjDividend": 1.2
+    },
+    {
+      "date": "2006-05-10",
+      "label": "May 10, 06",
+      "adjDividend": 1.0
+    },
+    {
+      "date": "2005-06-03",
+      "label": "June 03, 05",
+      "adjDividend": 0.48
+    },
+    {
+      "date": "2004-05-07",
+      "label": "May 07, 04",
+      "adjDividend": 0.25
+    },
+    {
+      "date": "2002-06-04",
+      "label": "June 04, 02",
+      "adjDividend": 1.0
+    },
+    {
+      "date": "2001-06-14",
+      "label": "June 14, 01",
+      "adjDividend": 1.0
+    },
+    {
+      "date": "2000-06-22",
+      "label": "June 22, 00",
+      "adjDividend": 1.0
+    }
+  ]
+}

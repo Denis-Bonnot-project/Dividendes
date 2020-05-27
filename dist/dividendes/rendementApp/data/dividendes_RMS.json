@@ -1,0 +1,180 @@
+{
+  "symbol": "RMS.PA",
+  "historical": [
+    {
+      "date": "2020-04-28",
+      "label": "April 28, 20",
+      "adjDividend": 3.05
+    },
+    {
+      "date": "2020-03-03",
+      "label": "March 03, 20",
+      "adjDividend": 1.5
+    },
+    {
+      "date": "2019-06-07",
+      "label": "June 07, 19",
+      "adjDividend": 3.05
+    },
+    {
+      "date": "2019-02-20",
+      "label": "February 20, 19",
+      "adjDividend": 1.5
+    },
+    {
+      "date": "2018-06-07",
+      "label": "June 07, 18",
+      "adjDividend": 2.6
+    },
+    {
+      "date": "2018-02-20",
+      "label": "February 20, 18",
+      "adjDividend": 1.5
+    },
+    {
+      "date": "2017-06-08",
+      "label": "June 08, 17",
+      "adjDividend": 2.25
+    },
+    {
+      "date": "2017-02-22",
+      "label": "February 22, 17",
+      "adjDividend": 1.5
+    },
+    {
+      "date": "2016-06-02",
+      "label": "June 02, 16",
+      "adjDividend": 1.85
+    },
+    {
+      "date": "2016-02-24",
+      "label": "February 24, 16",
+      "adjDividend": 1.5
+    },
+    {
+      "date": "2015-06-04",
+      "label": "June 04, 15",
+      "adjDividend": 1.45
+    },
+    {
+      "date": "2015-03-03",
+      "label": "March 03, 15",
+      "adjDividend": 1.5
+    },
+    {
+      "date": "2014-06-05",
+      "label": "June 05, 14",
+      "adjDividend": 1.2
+    },
+    {
+      "date": "2014-02-25",
+      "label": "February 25, 14",
+      "adjDividend": 1.5
+    },
+    {
+      "date": "2013-06-06",
+      "label": "June 06, 13",
+      "adjDividend": 1.0
+    },
+    {
+      "date": "2013-02-26",
+      "label": "February 26, 13",
+      "adjDividend": 1.5
+    },
+    {
+      "date": "2012-05-31",
+      "label": "May 31, 12",
+      "adjDividend": 0.5
+    },
+    {
+      "date": "2012-02-27",
+      "label": "February 27, 12",
+      "adjDividend": 1.5
+    },
+    {
+      "date": "2011-06-03",
+      "label": "June 03, 11",
+      "adjDividend": 0.5
+    },
+    {
+      "date": "2011-02-07",
+      "label": "February 07, 11",
+      "adjDividend": 1.0
+    },
+    {
+      "date": "2010-06-08",
+      "label": "June 08, 10",
+      "adjDividend": 1.05
+    },
+    {
+      "date": "2009-06-04",
+      "label": "June 04, 09",
+      "adjDividend": 1.03
+    },
+    {
+      "date": "2008-06-05",
+      "label": "June 05, 08",
+      "adjDividend": 1.0
+    },
+    {
+      "date": "2008-05-23",
+      "label": "May 23, 08",
+      "adjDividend": 1.17
+    },
+    {
+      "date": "2008-05-20",
+      "label": "May 20, 08",
+      "adjDividend": 1.17
+    },
+    {
+      "date": "2007-06-08",
+      "label": "June 08, 07",
+      "adjDividend": 0.95
+    },
+    {
+      "date": "2006-06-09",
+      "label": "June 09, 06",
+      "adjDividend": 2.5
+    },
+    {
+      "date": "2005-06-08",
+      "label": "June 08, 05",
+      "adjDividend": 2.0
+    },
+    {
+      "date": "2004-06-11",
+      "label": "June 11, 04",
+      "adjDividend": 2.55
+    },
+    {
+      "date": "2003-07-17",
+      "label": "July 17, 03",
+      "adjDividend": 0.35
+    },
+    {
+      "date": "2003-06-10",
+      "label": "June 10, 03",
+      "adjDividend": 1.65
+    },
+    {
+      "date": "2002-07-18",
+      "label": "July 18, 02",
+      "adjDividend": 0.35
+    },
+    {
+      "date": "2002-06-07",
+      "label": "June 07, 02",
+      "adjDividend": 1.5
+    },
+    {
+      "date": "2001-06-07",
+      "label": "June 07, 01",
+      "adjDividend": 1.25
+    },
+    {
+      "date": "2000-06-06",
+      "label": "June 06, 00",
+      "adjDividend": 0.92
+    }
+  ]
+}
